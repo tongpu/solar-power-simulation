@@ -1,0 +1,5 @@
+pvlib
+pandas
+jupyter
+matplotlib
+tables
