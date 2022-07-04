@@ -10,6 +10,19 @@ Lower Saxony, Germany.
 
 ## Setup
 
+### Git LFS
+
+Make sure you have Git LFS installed before cloning this repository. If you
+install it afterwards you can run the following commands to download the HDF5
+file managed by Git LFS:
+
+```bash
+git lfs install
+git lfs pull
+```
+
+### Jupyter notebook dependencies
+
 Install the dependencies
 
 ```bash
